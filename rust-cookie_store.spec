@@ -5,8 +5,8 @@
 %global crate cookie_store
 
 Name:           rust-%{crate}
-Version:        0.7.0
-Release:        2%{?dist}
+Version:        0.22.1
+Release:        1%{?dist}
 Summary:        Implementation of Cookie storage and retrieval per RFC6265
 
 # Upstream license specification: MIT/Apache-2.0
